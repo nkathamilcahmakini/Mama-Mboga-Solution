@@ -1,0 +1,12 @@
+.reviews{
+    background-color: #2b8a3e;
+    border: 2px  solid #2b8a3e;
+    border-radius: 20%;
+    border-radius: 20px;
+    width: 180px;
+    height: 150px;
+    padding: 10px;
+    display: -webkit-inline-flex;
+    margin-left: 30px;
+
+}
